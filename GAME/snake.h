@@ -1,0 +1,10 @@
+void print();
+void snakeInitialization();
+void ResetScreenPosition();
+void Random();
+void movement();
+int getch_noblock();
+void TailRemove();
+void GameOver();
+void WelcomeMessage();
+void record();
